@@ -4,10 +4,10 @@ var y = Math.floor(Math.random() * 10 + 1);
 var guess = 1;
 function submit(){
    
-}
+
 // count of attempts 
 var x = document.getElementById("guessField").value;
-
+}
 // until hit
   if(x == y)
   {
